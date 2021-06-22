@@ -1,0 +1,47 @@
+{
+  "editor.wordWrapColumn": 120,
+  "editor.wordWrap": "bounded",
+  "editor.minimap.enabled": false,
+
+  "[javascript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "editor.formatOnSave": false
+  },
+  "[json]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "editor.formatOnSave": false
+  },
+
+  "editor.codeActionsOnSave": { "source.fixAll.tslint": true },
+  "editor.formatOnSave": true,
+
+  "css.validate": false,
+
+  "prettier.tabWidth": 2,
+  "prettier.singleQuote": true,
+  "prettier.useTabs": false,
+
+  "html.format.wrapAttributes": "auto",
+  "html.format.wrapLineLength": 0,
+  "html.format.unformatted": "a, abbr, acronym, b, bdo, big, br, ...",
+
+  "workbench.editor.enablePreview": false,
+
+  "auto-rename-tag.activationOnLanguage": ["html", "xml"],
+
+  "files.exclude": {
+    ".firebase": true,
+    "**/node_modules": true,
+    //"**/.vscode": true,
+    "dist": true,
+    "package-lock.json": true,
+    "www": true
+  },
+
+}
