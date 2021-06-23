@@ -1,8 +1,13 @@
-# **MEMORY GAME**
+# **MEMORY GAME WITH VANILLA JS**
 ## **OVERVIEW**
-Texto to Overview
+Simple memory game using ***Vanilla JavaScript*** designed to demonstrate a simple approach to educational game design.
 
-# **DEVELOPMENT AND OPERATION**  
+The project uses some techniques different from the usual ones, citing as an example the use of ***yarn*** and ***post-css***.
+
+For project execution, no additional steps will be necessary, as for development we have some dependencies in the project to facilitate the work, such as ***eslint*** and ***prettier***.
+
+<br/>
+
 ## **PROJECT REQUIREMENTS**  
 ### **INSTALL ALL DEPENDENCIES**
 Make sure that you also have **[NodeJS](https://nodejs.org/)**, **[NPM](https://www.npmjs.com/)** and **[Yarn](https://classic.yarnpkg.com/pt-BR/)** installed on your computer.
