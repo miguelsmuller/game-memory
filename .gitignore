@@ -49,3 +49,5 @@ Thumbs.db
 # /src/firebase-messaging-sw.js
 /src/environments/*.ts
 !/src/environments/environment.ts
+
+src/global.css

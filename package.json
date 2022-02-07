@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "dev:css": "postcss src/global.scss -o src/global.css",
+    "css": "postcss src/global.scss -o src/global.css",
     "watch": "watch \"npm run dev:css \" ./src",
     "lint": "eslint ./src"
   },
